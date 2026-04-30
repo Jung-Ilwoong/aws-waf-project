@@ -1,10 +1,8 @@
 # 주제: AWS WAF와 Cloudfront를 이용한 안정적인 웹 서비스 구현
 > [!NOTE]
 > **프로젝트 기간:** 2026.04.29 / **난이도:** ★★★☆☆
-<img width="621" height="878" alt="AWS_WAF" src="https://github.com/user-attachments/assets/885d58be-04f4-42b7-8a27-f82987330228" />
-
 ## 프로젝트 구성도
-![프로젝트 구성도](./AWS_WAF.png)
+<img width="621" height="878" alt="AWS_WAF" src="https://github.com/user-attachments/assets/885d58be-04f4-42b7-8a27-f82987330228" />
 
 ## 프로젝트 목표:
 1. AWS 기본 자원을 생성할 수 있다.
